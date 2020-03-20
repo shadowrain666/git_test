@@ -1,2 +1,2 @@
-print "git test"
-print "add a new command"
+print("git test")
+print("add a new command")
